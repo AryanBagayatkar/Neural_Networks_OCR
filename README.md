@@ -5,9 +5,11 @@ OCR Implementation repository! This project is a comprehensive guide to building
 This project was developed as part of a workshop conducted under IEEE SIES GST, focusing on understanding the core principles of machine learning. The workshop covered concepts ranging from basic mathematics used in computing a neuron to classifying 10-digit numbers using a fully connected neural network.
 
 Project Overview
+
 Optical Character Recognition (OCR) is a key technology in various applications, including automated data entry, document processing, and more. In this project, you'll learn how to build a simple neural network that can read and recognize handwritten digits, akin to what you'd find in the classic MNIST dataset.
 
 Features
+
 End-to-End Neural Network Implementation: Starting from scratch, you'll build a neural network tailored for OCR, without relying on high-level machine learning frameworks.
 Handwritten Digit Recognition: The network is trained to recognize digits from the MNIST dataset, providing a practical and widely recognized use case for neural networks.
 Detailed Walkthrough: Each step of the network's development is thoroughly explained, making it easy to follow along and understand the underlying concepts.
@@ -20,6 +22,7 @@ Contributing
 License
 Acknowledgments
 Project Structure
+
 Here’s a breakdown of the repository’s contents:
 
 /data/ - Contains scripts for downloading and preparing the MNIST dataset. /models/ - Includes the neural network models built for OCR. /utils/ - Utility functions for data processing, model evaluation, and more. main.py - The main script for running the training and testing processes. requirements.txt- A list of dependencies required to run the project.
