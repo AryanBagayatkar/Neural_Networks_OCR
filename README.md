@@ -1,6 +1,6 @@
 # Neural_Networks_OCR
 
-This was a workshop conducted under IEEE SIES GST, Focuses on understanding the core principles of Machine Learning. Here we covered concepts from basic Math used in computing a neuron to classifying 10 digit numbers using a fully connected Neural Network.under guidane of @Adityadikonda10
+This was a workshop conducted under IEEE SIES GST, Focuses on understanding the core principles of Machine Learning. Here we covered concepts from basic Math used in computing a neuron to classifying 10 digit numbers using a fully connected Neural Network. Under guidane of @Adityadikonda10
 
 Lets start with computing output of a single neuron. the formula goes as:
 neuron output=input⋅weight+bias
